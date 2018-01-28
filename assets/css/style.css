@@ -1,3 +1,5 @@
+@media only screen and (min-width: 980px) {
+
 body{
     background-image:url("../background/footer_lodyas.png");
     background-repeat:repeat;
@@ -207,6 +209,7 @@ aside{
 
 .clear{
     float:clear;
+}
 }
 
 @media only screen and (min-width: 768px) {
